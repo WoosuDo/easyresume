@@ -1,4 +1,4 @@
 easyresume
 ==========
 
-my resume in markdown, which is easy to read in all platform.
+This is my resume in markdown, which is easy to read in all platform.
