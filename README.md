@@ -1,6 +1,6 @@
 # 吴彬冉
 
-139-9225-7592    [woosudo@gmail.com](mailto://woosudo@gmail.com)    [woosudo.com](http://woosudo.com)
+139-9225-7592    [woosudo@gmail.com](mailto:woosudo@gmail.com)    [woosudo.com](http://woosudo.com)
 
 > This is my resume in markdown, which is easy to read in all platform.
 
